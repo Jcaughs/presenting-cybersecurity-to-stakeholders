@@ -32,5 +32,5 @@ My capstone class at Penn State University was a perfect amalgamation of all the
 
 <h2>Final 15-Minute Capstone Presentation:</h2>
 <ul>
-  <li><b><a href="./Final%20Status%20Report%20Slides%20.pdf">View the PDF</a></b></li>
+  <li><b><a href="./Final%20Status%20Report%20Slides.pdf">View the PDF</a></b></li>
 </ul>
