@@ -19,6 +19,7 @@ Perhaps one of the most valuable skills I learned at Penn State was how to write
 
 <h2>BLUF (Bottom Line Up Front)</h2>
 - USB inserted into Domain Controller and Workstations
+
 - Phishing email leads to ransomware breach $2.5 million demanded
 - Sensitive data compromised of 1,463 individuals
 - Attack occurred from Dec. 13-17
